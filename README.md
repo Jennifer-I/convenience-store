@@ -1,7 +1,7 @@
 
 A convenience store using OOP
 Folder Structure
---srd
+--src
 · Staff
 · Manager
 · Cashier
